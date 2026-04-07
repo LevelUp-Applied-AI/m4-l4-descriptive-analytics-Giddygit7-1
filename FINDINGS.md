@@ -9,6 +9,7 @@
 ## 2. Key Distribution Findings
 - **GPA by Department:** Looking at `gpa_by_department.png`, student performance is fairly consistent across different majors, though some departments have slightly more outliers on the lower end.
 - **Weekly Study Time:** Most students report studying between 15 and 20 hours per week.
+- **Attendance Rates:** High attendance (over 80%) is common at HTU, as shown in `attendance_distribution.png`.
 
 ## 3. Notable Correlations
 - **Main Relationship:** The strongest relationship found was between `study_hours_weekly` and `gpa`. 
